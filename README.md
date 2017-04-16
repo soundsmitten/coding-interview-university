@@ -280,15 +280,15 @@ If short on time:
     - The book was published in 2004, and is somewhat outdated, but it's a terrific resource for understanding a computer in brief.
     - The author invented HLA, so take mentions and examples in HLA with a grain of salt. Not widely used, but decent examples of what assembly looks like.
     - These chapters are worth the read to give you a nice foundation:
-        - Chapter 2 - Numeric Representation
-        - Chapter 3 - Binary Arithmetic and Bit Operations
-        - Chapter 4 - Floating-Point Representation
-        - Chapter 5 - Character Representation
-        - Chapter 6 - Memory Organization and Access
-        - Chapter 7 - Composite Data Types and Memory Objects
-        - Chapter 9 - CPU Architecture
-        - Chapter 10 - Instruction Set Architecture
-        - Chapter 11 - Memory Architecture and Organization 
+        - [x] Chapter 2 - Numeric Representation
+        - [ ] Chapter 3 - Binary Arithmetic and Bit Operations
+        - [ ] Chapter 4 - Floating-Point Representation
+        - [ ] Chapter 5 - Character Representation
+        - [ ] Chapter 6 - Memory Organization and Access
+        - [ ] Chapter 7 - Composite Data Types and Memory Objects
+        - [ ] Chapter 9 - CPU Architecture
+        - [ ] Chapter 10 - Instruction Set Architecture
+        - [ ] Chapter 11 - Memory Architecture and Organization 
 
 If you have more time (I want this book):
 
